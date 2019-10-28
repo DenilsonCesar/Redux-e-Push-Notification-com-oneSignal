@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402128231716",
+    "firebase_url": "https://cadastro-202819.firebaseio.com",
+    "project_id": "cadastro-202819",
+    "storage_bucket": "cadastro-202819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402128231716:android:17d1d464e948ffa58427b1",
+        "android_client_info": {
+          "package_name": "com.reduxnotificacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402128231716-2urd9sjod4gim7ct3lieo8pgv7jvlfc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kdDJPf8l2sXM0iV3xEdPjE1Vx8xJCZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402128231716-2urd9sjod4gim7ct3lieo8pgv7jvlfc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
